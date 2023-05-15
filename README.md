@@ -1,4 +1,4 @@
-# David's Diplomarbeit
+# Josef, Kilian, David's Diplomarbeit
 
 ## 15-05-2023
 
