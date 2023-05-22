@@ -13,3 +13,10 @@ Today we did....
 
 ## 22-05-2023
 
+- Erstellung einer kleinen Präsentation mittels https://revealjs.com/
+- Grundfunktionen des Boxautomaten
+- Beispiel code für die Grundfunktionen
+- Diplomarbeit kurz präsentieren
+
+## 05-06-2023
+
