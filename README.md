@@ -20,3 +20,9 @@ Today we did....
 
 ## 05-06-2023
 
+- TED Hans Rosling
+- (Let my dataset change your mindset)
+- (The magic washing machine)
+-  gapminder.org Quiz
+
+## 05-06-2023
