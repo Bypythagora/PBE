@@ -32,9 +32,13 @@ Today we did....
 -Must Haves:
 
 •	20kmAh Akku
+
 •	Induktives Ladepad
+
 •	Display mit Infos (Akkustand, Uhrzeit)
+
 •	Laden über Solar & Steckdose
+
 •	Externe USB-A & USB-C Anschlüsse
 
 -Nice To Haves:
