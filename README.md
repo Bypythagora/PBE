@@ -44,24 +44,32 @@ Today we did....
 -Nice To Haves:
 
 •	Display (Wetter, Ladezeit für Powerbank (Wetterabhängig))
+
 •	Automatisches Ausschalten
 
 -Gehäuse:
 
 •	Über Fusion 360
+
 •	3D Druck
+
 •	(Josef)
 
 -Layout:
 
 •	Über Altium
+
 •	In der Schule Produzieren
+
 •	Möglicherweise Kilian
 
 -Programmierung:
 
 •	Display 
+
 •	Ladepad
+
 •	Automatisches Ausschalten
+
 •	Voraussichtlich David
 
