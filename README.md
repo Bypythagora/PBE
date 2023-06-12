@@ -26,3 +26,38 @@ Today we did....
 -  gapminder.org Quiz
 
 ## 12-06-2023
+
+-Dipl. Smart Powerbank (Indopower)
+
+-Must Haves:
+
+•	20kmAh Akku
+•	Induktives Ladepad
+•	Display mit Infos (Akkustand, Uhrzeit)
+•	Laden über Solar & Steckdose
+•	Externe USB-A & USB-C Anschlüsse
+
+-Nice To Haves:
+
+•	Display (Wetter, Ladezeit für Powerbank (Wetterabhängig))
+•	Automatisches Ausschalten
+
+-Gehäuse:
+
+•	Über Fusion 360
+•	3D Druck
+•	(Josef)
+
+-Layout:
+
+•	Über Altium
+•	In der Schule Produzieren
+•	Möglicherweise Kilian
+
+-Programmierung:
+
+•	Display 
+•	Ladepad
+•	Automatisches Ausschalten
+•	Voraussichtlich David
+
